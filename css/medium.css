@@ -1,0 +1,27 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color: #ffc017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.aside-button>li {
+    margin-bottom: 10px;
+}
+
+.myNav {
+    transition: 0.5s ease-in-out;
+}
+
+.nav-active {
+    background-color:#fff;
+    box-shadow: 5px -1px 12px -5px grey;
+}
+.greenBtn {
+    background-color:rgb(26, 137, 23);
+}
